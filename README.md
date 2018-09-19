@@ -2,4 +2,4 @@
 
 ## It is awesome
 
-<b> Life gives you only one chance </b>
+<i> Life gives you only one chance </i>
